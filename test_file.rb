@@ -4,6 +4,7 @@ Module.modify :My_methods do
     def self.configure
       #TODO:
       # +1-1
+      # +1-2
     end
 }
 end
