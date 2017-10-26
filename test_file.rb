@@ -5,6 +5,7 @@ Module.modify :My_methods do
       #TODO:
       # + 1
       # + 2 
+      # + 3
     end
 }
 end
